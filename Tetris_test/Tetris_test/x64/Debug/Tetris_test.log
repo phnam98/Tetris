@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Draw.cpp
+  Jeu.cpp
+c:\users\nam\documents\1652025\tetris_test\tetris_test\jouer.h(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Jouer.cpp
+c:\users\nam\documents\1652025\tetris_test\tetris_test\jouer.h(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pieces.cpp
+  PieceSet.cpp
+  Generating Code...
+  Tetris_test.cpp
+c:\users\nam\documents\1652025\tetris_test\tetris_test\jouer.h(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris_test.vcxproj -> C:\Users\Nam\Documents\1652025\Tetris_test\x64\Debug\Tetris_test.exe
